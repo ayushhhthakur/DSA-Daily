@@ -1,1 +1,1 @@
-# LeetCode-Daily
+# DSA-Daily
