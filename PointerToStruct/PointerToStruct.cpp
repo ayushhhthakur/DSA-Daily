@@ -18,6 +18,6 @@ int main () {
     p->l = 10;
     p->b = 15;
 
-    printf("Length: %d\nBreadth: %d\n", p->l, p->b);
+    cout<<"Length: "<<p->l<<endl<<"Breadth: "<<p->b<<endl;
     return 0;
 }
